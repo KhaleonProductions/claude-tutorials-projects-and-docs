@@ -22,3 +22,4 @@ A collection of guides for using Claude Code, Git, and GitHub — written for be
 | 14 | [GitHub Repository Management](14-github-repository-management/) | Creating, cloning, configuring, and organizing repos |
 | 15 | [Working with Multiple Branches](15-working-with-multiple-branches/) | Managing feature branches, stashing, and staying up to date |
 | 16 | [Claude Code Tips and Tricks](16-claude-code-tips-and-tricks/) | Power-user tips for getting the most out of Claude Code |
+| 17 | [Creating and Using Claude Agents](17-creating-and-using-claude-agents/) | What agents are, built-in agents, and how to create custom ones |
